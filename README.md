@@ -1,6 +1,6 @@
 # Emotion Recognition from Speech
 
-This project is a solution for the Emotion Recognition from Speech task as part of the CodeAlpha Machine Learning Internship.
+This project is a solution for the Emotion Recognition from Speech task as part of the Machine Learning Internship.
 
 ## Objective
 
